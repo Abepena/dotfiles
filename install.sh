@@ -36,4 +36,5 @@ curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-co
 ./brew.sh
 
 #Set VS Code settings
+echo "Setting VS code workbench settings"
 cp ${dotfiledir}/settings.json ${homedir}/Library/Application\ Support/Code/User/settings.json

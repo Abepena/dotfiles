@@ -18,8 +18,11 @@ brew cask install gimp
 brew cask install vlc
 brew cask install hyperdock
 brew cask install divvy
+brew cask install visual-studio-code
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
 brew cask install font-source-code-pro
+
+
 

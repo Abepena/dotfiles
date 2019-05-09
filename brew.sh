@@ -3,6 +3,8 @@
 # Install Brew Packages
 brew install python
 brew install tree
+brew install node
+
 
 # Install MacOS Applications
 brew cask install google-chrome

@@ -4,6 +4,7 @@
 brew install python
 brew install tree
 brew install node
+brew install zsh zsh-completions
 
 
 # Install MacOS Applications
@@ -18,7 +19,6 @@ brew cask install vlc
 brew cask install hyperdock
 brew cask install divvy
 brew cask install visual-studio-code
-
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
 brew cask install font-source-code-pro
